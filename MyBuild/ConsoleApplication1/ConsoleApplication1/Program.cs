@@ -13,7 +13,8 @@ namespace ConsoleApplication1
             //HelloThread.Example();
             //HelloThread.SecondExample();
             //PrimativeAtomicAction.Example();
-            DataPartionExample.Example();
+            //DataPartionExample.Example();
+            LockExample.Example();
             Console.WriteLine("Press enter to continue");
             Console.ReadLine();
         }

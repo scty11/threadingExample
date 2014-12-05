@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="DataPartionExample.cs" />
     <Compile Include="HelloThread.cs" />
+    <Compile Include="LockExample.cs" />
     <Compile Include="PrimativeAtomicAction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
