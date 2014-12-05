@@ -19,7 +19,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Process/core count = {0}", coreCount);
 
             // Get some data to work with.
-            //ddddd
+            //
             double[] data = GetData();
 
             Stopwatch sw = Stopwatch.StartNew();
