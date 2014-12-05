@@ -1,0 +1,6 @@
+C:\Users\scottyboi\Documents\jquery\code\threading\MyBuild\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\scottyboi\Documents\jquery\code\threading\MyBuild\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\scottyboi\Documents\jquery\code\threading\MyBuild\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\scottyboi\Documents\jquery\code\threading\MyBuild\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\scottyboi\Documents\jquery\code\threading\MyBuild\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\scottyboi\Documents\jquery\code\threading\MyBuild\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
